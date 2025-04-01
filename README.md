@@ -1,5 +1,5 @@
 # Mi Blog de Informática  
-📝 Una forma sencilla de centralizar y compartir mis apuntes e ideas.  
+Una forma sencilla de centralizar y compartir mis apuntes e ideas.  
 
 ![Mi Blog](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ42DHIiz35PDSsQ48-f0dpuvedj3aDe4zyYf0cLJzri0mLHWCXNtqb4uVePTYyRCgJLNI&usqp=CAU)
 
