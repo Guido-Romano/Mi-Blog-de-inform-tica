@@ -25,7 +25,7 @@ Este es un espacio dedicado a la informática en general, abarcando una variedad
 
 ## ¿Por qué leerlo?  
 Si te interesa profundizar en el mundo de la informática de manera práctica y sin rodeos, este es tu lugar.  
-Aprende de forma clara, aplicable y entretenida.  
+Aprende junto conmigo, de forma clara, aplicable y entretenida.  
 
 💙 ¡Espero que te sea útil!  
 
