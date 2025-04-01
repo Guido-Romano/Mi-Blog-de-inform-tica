@@ -16,16 +16,16 @@ Este es un espacio dedicado a la informática en general, abarcando una variedad
 - ⚙️ **Sistemas Operativos**  
 - 🛠 **Software**  
 
-💡 **Objetivo:** Mantener un enfoque técnico pero accesible, para que cualquier persona pueda entender y aplicar los conocimientos.  
+**Objetivo:** Mantener un enfoque técnico pero accesible, para que cualquier persona pueda entender y aplicar los conocimientos.  
 
-## 💡 Filosofía  
-✔️ **Contenido útil y bien estructurado** para facilitar el aprendizaje.  
-🚫 **Sin publicidad ni distracciones**, directo al punto.  
-📖 **Explicaciones claras y concisas**, sin complicaciones innecesarias.  
+##  Filosofía  
+**Contenido útil y bien estructurado** para facilitar el aprendizaje.  
+**Sin publicidad ni distracciones**, directo al punto.  
+**Explicaciones claras y concisas**, sin complicaciones innecesarias.  
 
-## 📌 ¿Por qué leerlo?  
+## ¿Por qué leerlo?  
 Si te interesa profundizar en el mundo de la informática de manera práctica y sin rodeos, este es tu lugar.  
-✨ Aprende de forma clara, aplicable y entretenida.  
+Aprende de forma clara, aplicable y entretenida.  
 
 💙 ¡Espero que te sea útil!  
 
